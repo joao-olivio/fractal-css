@@ -1,0 +1,29 @@
+{
+  "name": "fractal-css",
+  "version": "1.0.0",
+  "description": "Fractal css project",
+  "main": "fractalfile.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-olivio/fractal-css.git"
+  },
+  "keywords": [
+    "fractal",
+    "build",
+    "css",
+    "sass",
+    "atomic",
+    "design",
+    "mobile",
+    "first"
+  ],
+  "author": "João Olivio Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joao-olivio/fractal-css/issues"
+  },
+  "homepage": "https://github.com/joao-olivio/fractal-css#readme"
+}
