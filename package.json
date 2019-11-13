@@ -25,5 +25,21 @@
   "bugs": {
     "url": "https://github.com/joao-olivio/fractal-css/issues"
   },
-  "homepage": "https://github.com/joao-olivio/fractal-css#readme"
+  "homepage": "https://github.com/joao-olivio/fractal-css#readme",
+  "dependencies": {
+    "@frctl/fractal": "^1.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/register": "^7.6.2",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "fractal": {
+    "main": "fractalfile.js"
+  }
 }
